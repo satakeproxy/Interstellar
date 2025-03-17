@@ -1,3 +1,14 @@
+<a href="https://render.com/deploy?repo=https://github.com/satakeproxy/interstellar">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+
+
+
+
+
+
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
